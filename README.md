@@ -131,9 +131,7 @@ Test data has been provided in the `data.rb` file.
 
 ## Challenge #4 - write a spec
 
-Write all of this test-first.  In your specs, don't use the
-test data from `data.rb` - instead, write your own data
-structures that are similar to the `CRM` data.
+f
 
 Then, in IRB, run your code against the test data to
 see it in action.
